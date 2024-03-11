@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+}
+
+div{
+    height: 80px;
+    width: 80px;
+    border: 5px solid black;
+    margin: auto;
+    border-radius: 15%;
+    
+    
+}
+
+.box{
+    height: 220px;
+    width: 220px;
+    flex-wrap: wrap;
+    display: flex;
+    border: none;
+    justify-content: space-between;
+}
+.orange{
+    background-color: orange;
+    
+   
+}
+.blue{
+    background-color: blue;
+   
+}
+.pink{
+    background-color: pink;
+ 
+
+}
+.green{
+    background-color:green;
+    
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color:grey;
+}
